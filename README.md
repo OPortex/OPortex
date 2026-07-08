@@ -1,5 +1,3 @@
-## Hi there! 👋
-
 I'm **Wrench7z** (GitHub: `OPortex`) — a malware analyst who loves tinkering with hardware 🛠️. 
 
 Tagline: *Hunting threats by day, building retro hardware by night.* 🔍🔧
