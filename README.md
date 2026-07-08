@@ -25,13 +25,20 @@ Currently obsessed with:
 
 
 ## Skills & Technologies
-https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png,https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png, https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png, https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vim.png, https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png, https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png, https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/lua.png, https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png, https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png, 
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/da8734b9-ca9b-480e-a21e-119e867ae17a" />, <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/a0156525-b705-413a-ae3a-02f2bae7d974" />, <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/b728e5ad-9227-4c61-89db-30e36440b494" />, <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/e473d45d-d51d-476f-a57d-6fd0f882e9bd" />, <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/295cdc06-38c4-44f8-9d6b-8571b8b07607" />, <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/19f971a8-f4f5-4f3b-bbe5-eaa9747316b3" />, <img width="1200" height="1200" alt="image" src="https://github.com/user-attachments/assets/6f24d4bd-2404-4d72-9946-d48afbc55f11" />, <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/03b828b6-96f4-4952-b8c8-f80a2eff769c" />, 
+
+
+
+
+
+
 
 ## Operating System 
-https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png, https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png, https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ubuntu.png, https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kali_linux.png
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/28b7cd6f-5a3a-4f38-a432-173422aa7886" />, <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/00445ba0-7731-48b6-839d-99cd808e6d95" />,<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/5e638437-812a-4379-a25f-75ad1919e12b" />, <img width="672" height="500" alt="image" src="https://github.com/user-attachments/assets/cc448c58-8e4c-4e96-8310-0949786c01cf" />
 
 ## MicroControllers
-https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/arduino.png
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/6a88984e-57b7-4606-aeb2-9b185c48a929" />
+
 
 ## Top Projects
 
