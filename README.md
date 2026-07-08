@@ -25,12 +25,15 @@ Currently obsessed with:
 
 
 ## Skills & Technologies
+https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png,https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png, https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png, https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vim.png, https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png, https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png, https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/lua.png, https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png, https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png, 
 
+## Operating System 
+https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png, https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png, https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ubuntu.png, https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kali_linux.png
 
+## MicroControllers
+https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/arduino.png
 
 ## Top Projects
-
-### Top Projects
 
 1. [Calculator](https://github.com/OPortex/Calculator)
    - Description: Simple Calculator in Python
