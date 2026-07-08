@@ -15,13 +15,12 @@ Tagline: *Hunting threats by day, building retro hardware by night.* 🔍🔧
 
 17 | Self-taught | Deep thinker
 
-Building my skills from the ground up — from NAND gates to malware analysis.
+### Areas of Study & Interest
 
-Currently obsessed with:
-• Nand2Tetris
-• Reverse Engineering & Assembly
-• Low-level C programming
-• 3D modeling (furry/VR avatars)
+- **Computer Science & Cybersecurity**: Reverse Engineering, Assembly, Malware Analysis
+- **Creative Fields**: 3D Modeling, Video Editing, VFX, Graphic Design
+- **Humanities**: Theology, Philosophy, Psychology, History, Political Science
+- **Core Skills**: Mathematics, Self-directed Learning
 
 
 ## Skills & Technologies
