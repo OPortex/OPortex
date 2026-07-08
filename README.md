@@ -1,12 +1,12 @@
-I'm **Wrench7z** (GitHub: `OPortex`) — a malware analyst who loves tinkering with hardware 🛠️. 
+I'm **Wrench7z** (GitHub: `OPortex`) — a malware analyst who loves tinkering with hardware. 
 
-Tagline: *Hunting threats by day, building retro hardware by night.* 🔍🔧
+Tagline: *Hunting threats by day, building retro hardware by night.*
 
 ## About Me
 
 ### About Me
 
-- Role: Malware Analyst 🧩
+- Role: Malware Analyst
 - GitHub: [OPortex](https://github.com/OPortex)
 - Joined GitHub: September 13, 2023
 - Bio: "malware analyst, loves my hardware......"
