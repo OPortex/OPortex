@@ -17,7 +17,7 @@ Tagline: *Hunting threats by day, building retro hardware by night.* 🔍🔧
 
 ### Areas of Study & Interest
 
-- **Computer Science & Cybersecurity**: Reverse Engineering, Assembly, Malware Analysis
+- **Computer Science & Cybersecurity**: Reverse Engineering, Assembly, Malware Analysis, Web-Penetration Testing
 - **Creative Fields**: 3D Modeling, Video Editing, VFX, Graphic Design
 - **Humanities**: Theology, Philosophy, Psychology, History, Political Science
 - **Core Skills**: Mathematics, Self-directed Learning
