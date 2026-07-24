@@ -12,7 +12,7 @@ I'm **Wrench7z** (GitHub: `OPortex`) — a malware analyst who loves tinkering w
 ### Areas of Study & Interest
 
 - **Computer Science & Cybersecurity**: Reverse Engineering, Assembly, Malware Analysis, Web-Penetration Testing
-- **Creative Fields**: 3D Modeling, Video Editing, VFX, Graphic Design
+- **Creative Fields**: 3D Modeling, Video Editing, VFX, Graphic Design, Musician, Animation.
 - **Humanities**: Theology, Philosophy, Psychology, History, Political Science
 - **Core Skills**: Mathematics, Self-directed Learning
 
