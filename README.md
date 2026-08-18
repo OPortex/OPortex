@@ -7,7 +7,7 @@ I'm **Wrench7z** (GitHub: `OPortex`) — a malware analyst who loves tinkering w
 - GitHub: [OPortex](https://github.com/OPortex)
 - Joined GitHub: September 13, 2023
   
-17 | Self-taught | Deep thinker
+17 | Self-taught
 
 ### Areas of Study & Interest
 
