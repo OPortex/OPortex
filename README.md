@@ -9,6 +9,10 @@ I'm **Wrench7z** (GitHub: `OPortex`) — a malware analyst who loves tinkering w
   
 17 | Self-taught
 
+### CURRENT WORK
+indie Psychological Horror game
+3d modeling for racing game
+
 ### Areas of Study & Interest
 
 - **Computer Science & Cybersecurity**: Reverse Engineering, Assembly, Malware Analysis, Web-Penetration Testing
