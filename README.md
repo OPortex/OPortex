@@ -10,8 +10,7 @@ I'm **Wrench7z** (GitHub: `OPortex`) — a malware analyst who loves tinkering w
 17 | Self-taught
 
 ### CURRENT WORK
-- Indie Psychological Horror game
-- 3d modeling for racing game
+- A roblox game
 
 ### Areas of Study & Interest
 
