@@ -9,8 +9,9 @@ I'm **Wrench7z** (GitHub: `OPortex`) — a malware analyst who loves tinkering w
   
 17 | Self-taught
 
-### CURRENT WORK
-- A roblox game
+### CURRENT PROJECTS
+- Nand2tetris
+- Decompression/compression tool
 
 ### Areas of Study & Interest
 
